@@ -3,13 +3,14 @@ module gin_demo
 require (
 	cloud.google.com/go v0.43.0 // indirect
 	github.com/Unknwon/com v0.0.0-20190321035513-0fed4efef755
-	github.com/astaxie/beego v1.12.0 // indirect
+	github.com/astaxie/beego v1.12.0
 	github.com/bradfitz/gomemcache v0.0.0-20190329173943-551aad21a668 // indirect
 	github.com/casbin/casbin v1.9.1 // indirect
 	github.com/couchbase/go-couchbase v0.0.0-20190708161019-23e7ca2ce2b7 // indirect
 	github.com/couchbase/gomemcached v0.0.0-20190515232915-c4b4ca0eb21d // indirect
 	github.com/couchbase/goutils v0.0.0-20190315194238-f9d42b11473b // indirect
 	github.com/denisenkom/go-mssqldb v0.0.0-20190724012636-11b2859924c1 // indirect
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/edsrzf/mmap-go v1.0.0 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/gin-gonic/gin v1.4.0
